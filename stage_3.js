@@ -28,7 +28,7 @@ async function main() {
         console.log("DEBUG CHECK arc.sharedCalendar:", arc.sharedCalendar);
         console.log("DEBUG CHECK arc.syncEnabled:", arc.syncEnabled);
 
-        logInfo("ARC configuration loaded.");
+        logInfo("ARC configuration loaded."); 
 
         //--------------------------------------------------------------
         // Run Sync Engine using:
