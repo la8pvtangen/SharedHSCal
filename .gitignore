@@ -1,0 +1,15 @@
+# Ignore environment files
+env/config.env
+.env
+*.env
+.env.*
+
+# Ignore node modules
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore OS junk
+Thumbs.db
+.DS_Store
